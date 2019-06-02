@@ -6,4 +6,4 @@ marks  = c(98,95,80,86,89)
 pie(marks,subjects)
 
 #to get more colourized graph execute the folowing line
-pie(marks,subjects,col=rainbow(length(vtr))
+pie(marks,subjects,col=rainbow(length(marks)))
